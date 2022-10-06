@@ -1,3 +1,4 @@
+# A simple Rock-Paper-Scissor game
 import random
 
 def main():
